@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//Integrantes: Carrasco Marcelo Mateo Y Sotomayor Maria Gabriela
+//Integrantes: Carrasco Marcelo Mateo
 
-namespace Práctica_6_Ejercicio_2_CarrascoMarcelo_SotomayorGabriela
 {
     class Cola
     {
